@@ -8,7 +8,7 @@ Automatyczny odtwarzacz nut do gry na wirtualnym pianinie (np. w VirtualPiano.ne
 
 ## Jak używać?
 
-1. **Pobierz paczkę RAR** z zakładki [Releases](../../releases) (plik `Auto-Pianinko.zip`).
+1. **Pobierz paczkę RAR** z zakładki [Releases](../../releases) (plik `Auto-Pianinko 1.0.rar`).
 2. **Wypakuj** zawartość RAR do dowolnego folderu na swoim komputerze.
 3. W folderze `songs` umieść swoje pliki `.txt` z nutami.
 4. Uruchom `Auto-Pianinko.exe` (lub `.ahk`, jeśli masz zainstalowany AutoHotkey).
@@ -38,7 +38,7 @@ Automatic sheet music player for virtual piano games (e.g., VirtualPiano.net or 
 
 ## How to use?
 
-1. **Download the RAR package** from the [Releases](../../releases) page (`Auto-Pianinko.zip`).
+1. **Download the RAR package** from the [Releases](../../releases) page (`Auto-Pianinko 1.0.rar`).
 2. **Extract** the RAR contents to any folder on your computer.
 3. Put your `.txt` sheet music files into the `songs` folder.
 4. Run `Auto-Pianinko.exe` (or `.ahk` if you have AutoHotkey installed).
