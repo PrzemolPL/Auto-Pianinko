@@ -1,4 +1,4 @@
-# Auto Pianinko 1.0
+# Auto Pianinko 
 
 # PL
 
