@@ -6,6 +6,8 @@ Automatyczny odtwarzacz nut do gry na wirtualnym pianinie (np. w VirtualPiano.ne
 
 ---
 
+Do działania potrzebny jest [AutoHotkey](https://www.autohotkey.com/) 
+
 ## Jak używać?
 
 1. **Pobierz paczkę RAR** z zakładki [Releases](../../releases) (plik `Auto-Pianinko 1.0.rar`).
@@ -35,6 +37,8 @@ Automatyczny odtwarzacz nut do gry na wirtualnym pianinie (np. w VirtualPiano.ne
 Automatic sheet music player for virtual piano games (e.g., VirtualPiano.net or Roblox).
 
 ---
+
+To work you need [AutoHotkey](https://www.autohotkey.com/)
 
 ## How to use?
 
